@@ -1,1 +1,0 @@
-# Offset-Property-Animations-Lesson
